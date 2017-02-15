@@ -181,3 +181,12 @@ rtmp://iptv.livetv.tn/live/ch508?code=ea3050dac0b8133
 
 #EXTINF:0,BEING SPORT 3
 rtmp://iptv.livetv.tn/live/ch906?code=ea3050dac0b8133
+
+#EXTINF:0,FR: Beinsport 1
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/366.ts
+
+#EXTINF:0,FR: Beinsport 2
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/365.ts
+
+#EXTINF:0,FR: Beinsport 3
+http://163.172.6.8:8000/live/LDji6wM8Re/TFxN3UU0bu/364.ts
